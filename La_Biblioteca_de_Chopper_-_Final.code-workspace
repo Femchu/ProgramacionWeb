@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../formulario-css-grid-master/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "La_Biblioteca_de_Chopper_-_Final"
+	}
+}
